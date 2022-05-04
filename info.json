@@ -1,0 +1,183 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://shop.es-johokan.com/rilucky/",
+            "path": "index.html",
+            "saved": true,
+            "size": 5640,
+            "children": [
+                {
+                    "url": "https://shop.es-johokan.com/include/img/bg_a.png",
+                    "path": "img/bg_a.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/shop/rilucky/logo.jpg",
+                    "path": "img/logo.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/shop/rilucky/staff/coco/photo01.jpg",
+                    "path": "img/photo01_1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/shop/rilucky/staff/yuri/photo01.jpg",
+                    "path": "img/photo01_2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/shop/rilucky/staff/yuna/photo01.jpg",
+                    "path": "img/photo01.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://chart.apis.google.com/chart?chs=120x120&cht=qr&chl=http://shop.es-johokan.com/rilucky/i/",
+                    "path": "img/chart.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://es-johokan.com/img/es-navi150x40.gif",
+                    "path": "img/es-navi150x40.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://es-johokan.com/img/kansai-es200x40.gif",
+                    "path": "img/kansai-es200x40.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://es-johokan.com/img/mens-es200x40.gif",
+                    "path": "img/mens-es200x40.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/include/js/jquery-1.11.0.min.js",
+                    "path": "js/jquery-1.11.0.min.js",
+                    "saved": true,
+                    "size": 96381,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/include/ga/ga.js",
+                    "path": "js/ga.js",
+                    "saved": true,
+                    "size": 381,
+                    "children": []
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=UA-114140441-5",
+                    "saved": false
+                },
+                {
+                    "url": "https://shop.es-johokan.com/include/css/minireset.min.css",
+                    "path": "css/minireset.min.css",
+                    "saved": true,
+                    "size": 525,
+                    "children": []
+                },
+                {
+                    "url": "https://shop.es-johokan.com/include/css/style.css?87941268465",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 14603,
+                    "children": []
+                },
+                {
+                    "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyA-0WpxuePdGlyT2sARGa4j-TZA9DWcOg8&q=34.392618,132.440826&zoom=16",
+                    "path": "place.html",
+                    "saved": true,
+                    "size": 2214,
+                    "children": [
+                        {
+                            "url": "https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=zh_CN&callback=onApiLoad",
+                            "path": "js/js.js",
+                            "saved": true,
+                            "size": 170827,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "shop-es-johokan-com-5rm09z0k",
+    "info": {
+        "remark": [],
+        "title": "リラッキー｜天満町のリラクゼーションエステ",
+        "domain": "shop.es-johokan.com",
+        "origin": "https://shop.es-johokan.com",
+        "ip": "112.78.125.83",
+        "main": "index.html",
+        "url": "https://shop.es-johokan.com/rilucky/",
+        "totalSize": "291 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://shop.es-johokan.com/rilucky/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://shop.es-johokan.com/rilucky/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 04 May 2022 06:19:44 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "x-powered-by": "PHP/7.4.28",
+                "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate",
+                "pragma": "no-cache",
+                "set-cookie": [
+                    "PHPSESSID=82ab9ca7268a1c049304fc0f16dab168; path=/"
+                ],
+                "access-control-allow-origin": "https://admin.es-johokan.com"
+            }
+        },
+        "time": {
+            "start": "2022-05-04T06:19:44.340Z",
+            "end": "2022-05-04T06:19:45.854Z"
+        }
+    },
+    "options": {
+        "url": "https://shop.es-johokan.com/rilucky/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}

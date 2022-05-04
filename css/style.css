@@ -1,3 +1,71 @@
+section#access {
+  
+}
+
+section#access div#map_canvas {
+	width: 630px;
+	height: 500px;
+	background-color: #CCC;
+	margin: 0 auto;
+}
+
+section#access div#map_canvas iframe {
+	width: 630px;
+	height: 500px;
+}
+
+section#access p {
+	width: 630px;
+	margin: 15px auto;
+	text-align: center;
+}
+
+section#access {
+	padding-bottom: 40px;
+}
+
+section#access:after {
+	display:block;
+	clear:both;
+	height:0px;
+	visibility:hidden;
+	content:".";
+}
+
+section#access img {
+	margin-left: 25px;
+	width: 120px;
+	height: 120px;
+	display: block;
+	float: left;
+	border: 3px solid #EEE;
+}
+
+section#access table {
+	margin-right: 25px;
+	float: right;
+	font-size: 90%;
+	width: 480px;
+	border: outset 3px #CCCCCC;
+}
+
+section#access table th {
+	font-weight: normal;
+	padding:6px;
+	text-align: center;
+	width: 20%;
+	background-color: #666666;
+	color: #FFFFFF;
+	border: solid 1px #000000;
+}
+
+section#access table td {
+	clear: both;
+	padding: 5px;
+	color: #333333;
+	background-color: #EEEEEE;
+	border: solid 1px #999999;
+}
 /* Base */
 body {
   line-height: 1.7;
@@ -2815,4 +2883,3 @@ h1, h2, h3, h4, h5,
   padding-bottom: 7px !important;
 }
 
-/*# sourceMappingURL=style.css.map */
